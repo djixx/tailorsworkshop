@@ -1,4 +1,4 @@
-package com.eonis.tailorsworkshop;
+package com.eonis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TailorsworkshopApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TailorsworkshopApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TailorsworkshopApplication.class, args);
+    }
 
 }
